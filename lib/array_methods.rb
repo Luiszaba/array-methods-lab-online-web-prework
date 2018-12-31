@@ -3,6 +3,6 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  array.sort("arrays!")
+  array.sort
 end
 
