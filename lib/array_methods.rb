@@ -3,6 +3,6 @@ def using_include(array, element)
 end
 
 def using_reverse(array)
-  array.sort!
+  array.sort("arrays!")
 end
 
