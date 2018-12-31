@@ -14,3 +14,11 @@ def using_first(array)
   array.first
 end
 
+def array_last(array)
+  array.last
+end
+
+def using_size(array)
+  array.size
+end
+
